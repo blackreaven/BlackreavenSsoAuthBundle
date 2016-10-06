@@ -17,8 +17,7 @@
         {
             "name": "blackreaven",
             "email": "blackreaven@planmylife.io"
-        },
-
+        }
     ],
     "require": {
         "php": ">=5.3.3",
